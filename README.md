@@ -52,7 +52,7 @@ The data set contains the following diseases:
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@kafee651] - feel free to contact me!
 
 
 <!-- Optional -->
